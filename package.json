@@ -1,0 +1,22 @@
+{
+  "name": "practical",
+  "description": "Dockerize the Node app",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "Aditya Banerjee",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityabanerjee992/sit323-737-2023-t1-prac5p"
+  },
+  "bugs": {
+    "url": "https://github.com/adityabanerjee992/sit323-737-2023-t1-prac5p/issues"
+  },
+  "homepage": "https://github.com/adityabanerjee992/sit323-737-2023-t1-prac5p#readme"
+}
