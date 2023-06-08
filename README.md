@@ -55,11 +55,11 @@ Follow these steps to deploy the application using Kubernetes:
    - Change into the project directory (`sit737-2023-t2-prac7.1p`).
    - Run the following command to create the deployment:
      ```
-     kubectl apply -f deployment.yaml
+     kubectl apply -f my-app-deployment.yaml
      ```
    - Run the following command to create the service:
      ```
-     kubectl apply -f service.yaml
+     kubectl apply -f my-app-service.yaml
      ```
 6. Verify the Deployment:
 
